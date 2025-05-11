@@ -108,7 +108,7 @@ microservices/
 ├── gateway/         # API Gateway
 ├── bookshelf/       # Service de gestion des étagères
 ├── book/            # Service de gestion des livres
-└── configvalue/     # Service de démonstration
+└── configvalue/     # Value des properties des services
 ```
 
 ## 🔧 Configuration
